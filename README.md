@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
+
 <!--
 **heliovictor98/heliovictor98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
