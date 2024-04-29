@@ -9,7 +9,7 @@
     <img align="center" alt="Logo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
           
   </div> 
-<div align='center'>
+<!-- <div align='center'>
 
 <div align="center">  
   
@@ -21,7 +21,7 @@
   
 </div>
 
-</div>
+</div> -->
 <!--
 **heliovictor98/heliovictor98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
