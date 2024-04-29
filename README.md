@@ -1,5 +1,5 @@
-### Tecnologias de conhecimento ou estudos 👋
-<div style="display: inline_block"><br>    
+ <h2 align="left">Skills:</h2>
+  <div style="display: inline_block"><br> 
     <img align="center" alt="Logo-Java" height="30" width="40"  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Logo-spring" height="30" width="40" 
